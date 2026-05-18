@@ -58,7 +58,7 @@ keywords: [tag1, tag2]
 | [`mcp-configs/`](./mcp-configs/) | MCP server configurations | 1 |
 | [`modes/`](./modes/) | Behavioral modes (SuperClaude) | 1 |
 | [`semantic-anchors/`](./semantic-anchors/) | Precise vocabulary for better LLM outputs | 1 |
-| [`multi-provider/`](./multi-provider/README.md) | Multi-provider bridge → [dedicated repo](https://github.com/FlorianBruniaux/cc-copilot-bridge) | — |
+| [`multi-provider/`](https://github.com/FlorianBruniaux/cc-copilot-bridge) | Multi-provider bridge → dedicated repo | — |
 
 ## Quick Start
 
@@ -372,7 +372,7 @@ Security-first: 12 security hooks, 8 productivity hooks, 5 automation hooks, 5 m
 
 | Tool | Purpose |
 |------|---------|
-| [cc-copilot-bridge](./multi-provider/README.md) | Bridge GitHub Copilot to Claude Code CLI for flat-rate access |
+| [cc-copilot-bridge](https://github.com/FlorianBruniaux/cc-copilot-bridge) | Bridge GitHub Copilot to Claude Code CLI for flat-rate access |
 
 > Moved to dedicated repository: [github.com/FlorianBruniaux/cc-copilot-bridge](https://github.com/FlorianBruniaux/cc-copilot-bridge)
 
